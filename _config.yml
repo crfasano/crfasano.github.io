@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : @crfasano_astro
+  username               : &twitter crfasano_astro
 facebook:
   username               :
   app_id                 :
