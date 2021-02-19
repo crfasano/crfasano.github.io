@@ -11,9 +11,9 @@ title                    : "Cecilia Fasano"
 title_separator          : "-"
 name                     : &name "Cecilia Fasano"
 description              : &description "Physics PhD Student at the University of Iowa"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+url                      : http://www.ceciliafasano.com/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "http://www.ceciliafasano.com/" # the subpath of your site, e.g. "/blog"
+repository               : "http://www.ceciliafasano.com/"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -122,6 +122,7 @@ include:
   - .htaccess
   - _pages
   - files
+  - _publications
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -220,7 +221,7 @@ defaults:
       comments: true
   # _publications
   - scope:
-      path: "/Users/ceciliarfasano/Documents/GitHub/crfasano.github.io/_publications/2009-10-01-paper-title-number-1.md"
+      path: "/Users/ceciliarfasano/Documents/GitHub/crfasano.github.io/_publications"
       type: publications
     values:
       layout: single
