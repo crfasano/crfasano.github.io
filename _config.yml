@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Cecilia Fasano"
-  avatar           : "headshot2.jpg"
+  avatar           : "headshot2.png"
   bio              : "PhD student researching and building new instrument technologies for use in the next generation of space telescopes"
   location         : "University of Iowa"
   employer         :
@@ -220,7 +220,7 @@ defaults:
       comments: true
   # _publications
   - scope:
-      path: ""
+      path: "/Users/ceciliarfasano/Documents/GitHub/crfasano.github.io/_publications/2009-10-01-paper-title-number-1.md"
       type: publications
     values:
       layout: single
