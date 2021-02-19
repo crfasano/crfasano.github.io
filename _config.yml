@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Cecilia Fasano"
 title_separator          : "-"
 name                     : &name "Cecilia Fasano"
-description              : &description "PhD Student in Physics at the University of Iowa"
+description              : &description "Physics PhD Student at the University of Iowa"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter crfasano_astro
+  username               : &twitter
 facebook:
   username               :
   app_id                 :
@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Cecilia Fasano"
-  avatar           : "headshot 2.png"
-  bio              : "PhD student researching and building the next generation of space telescope technologies"
+  avatar           : "headshot2.jpg"
+  bio              : "PhD student researching and building new instrument technologies for use in the next generation of space telescopes"
   location         : "University of Iowa"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -103,13 +103,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "crfasano_astro"
   vine             :
   weibo            :
   xing             :
