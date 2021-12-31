@@ -90,6 +90,8 @@ author:
   email            :
   researchgate     :  "https://www.researchgate.net/profile/Cecilia_Fasano"
   uri              :
+  ads              : # example: 'https://ui.adsabs.harvard.edu/search/q=author%3A"Galilei%2C G."'
+  arxiv            :
   bitbucket        :
   codepen          :
   dribbble         :
@@ -100,6 +102,7 @@ author:
   google_plus      :
   keybase          :
   instagram        :
+  inspire          : # "1234567"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :  "cecilia-fasano-4b3799206"
